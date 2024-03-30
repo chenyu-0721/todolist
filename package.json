@@ -1,5 +1,18 @@
 {
+  "scripts": {
+    "start": "node server.js"
+  },
+  "name": "todolist",
+  "version": "1.0.0",
+  "main": "errorHandle.js",
+  "devDependencies": {},
+  "author": "",
+  "license": "ISC",
+  "description": "",
   "dependencies": {
     "uuid": "^9.0.1"
+  },
+  "engines": {
+    "node": "v21.6.2"
   }
 }
